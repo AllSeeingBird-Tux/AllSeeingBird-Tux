@@ -8,5 +8,5 @@
 AllSeeingBird-Tux/AllSeeingBird-Tux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllSeeingBird-Tux&&layout=pie)
-[![AllSeeingBird-Tux's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllSeeingBird-Tux)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllSeeingBird-Tux&&layout=pietheme=transparent)
+[![AllSeeingBird-Tux's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllSeeingBird-Tuxtheme=transparent)](https://github.com/anuraghazra/github-readme-stats)
