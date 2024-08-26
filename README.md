@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source software.
 - 🌱 I’m currently learning C/C++
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use EndeavourOS btw.
+- ⚡ Fun fact: I use Arch btw.
 
 <!---
 AllSeeingBird-Tux/AllSeeingBird-Tux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
